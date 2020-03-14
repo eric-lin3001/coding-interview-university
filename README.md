@@ -11,6 +11,8 @@
 > including the giants: Amazon, Facebook, Google, and Microsoft.
 >
 > *Best of luck to you!*
+>
+> 好的
 
 <details>
 <summary>Translations:</summary>
@@ -1374,11 +1376,11 @@ You're never really done.
 
     *****************************************************************************************************
     *****************************************************************************************************
-
+    
     Everything below this point is optional.
     By studying these, you'll get greater exposure to more CS concepts, and will be better prepared for
     any software engineering job. You'll be a much more well-rounded software engineer.
-
+    
     *****************************************************************************************************
     *****************************************************************************************************
 
@@ -1445,7 +1447,7 @@ You're never really done.
       that is just an intro. This a guidebook on program design and architecture.
 
 ## Additional Learning
-    
+
     I added them to help you become a well-rounded software engineer, and to be aware of certain 
     technologies and algorithms, so you'll have a bigger toolbox.
 
