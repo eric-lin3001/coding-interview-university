@@ -457,15 +457,15 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-    - [x] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - [answers to questions](https://github.com/lekkas/c-algorithms)
 
 - [ ] **How computers process a program:**
-    - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [x] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-    - [x] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
+    - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
+    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
     - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
     - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
@@ -547,16 +547,16 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
     - [ ] implement (I did with tail pointer & without):
-        - [ ] size() - returns number of data elements in list
-        - [ ] empty() - bool returns true if empty
-        - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
+        - [x] size() - returns number of data elements in list
+        - [x] empty() - bool returns true if empty
+        - [x] value_at(index) - returns the value of the nth item (starting at 0 for first)
         - [ ] push_front(value) - adds an item to the front of the list
         - [ ] pop_front() - remove front item and return its value
         - [ ] push_back(value) - adds an item at the end
-        - [ ] pop_back() - removes end item and returns its value
+        - [x] pop_back() - removes end item and returns its value
         - [ ] front() - get value of front item
         - [ ] back() - get value of end item
-        - [ ] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
+        - [x] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
         - [ ] erase(index) - removes node at given index
         - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
         - [ ] reverse() - reverses the list
